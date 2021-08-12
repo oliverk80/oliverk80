@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @oliverk80
+- 👀 I’m interested in machine learning and automation.
+- 🌱 I’m currently learning Python.
+- 💞️ I’m looking to collaborate on TBD
+- 📫 How to reach me: oliverakhan@gmail.com or https://www.linkedin.com/in/oliverakhan/
